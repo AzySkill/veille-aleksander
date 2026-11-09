@@ -8,4 +8,4 @@ setTimeout(() => {
   message.classList.add("visible");
 }, 200);
 
-date.textContent = "Page chargÃ©e le " + new Date().toLocaleString("fr-FR");
+date.textContent = "Page chargée le " + new Date().toLocaleString("fr-FR");
